@@ -21,3 +21,4 @@
    &nbsp;&nbsp;&nbsp;2.1 引入该类，如：let flashEvent = require('你的路径/utils/FlashEvent.js');<br>  
    &nbsp;&nbsp;&nbsp;2.2 发送事件，如：flashEvent.post(flashEvent.EVENT_KEYS.FIRST_EVENT, '发送的数据');<br>  
  
+ 欢迎star、fxxk
